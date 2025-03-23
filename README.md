@@ -24,8 +24,8 @@ Una plataforma integral que combina ejercicio y nutrición, ayudando a los usuar
 
 - **Recetas personalizadas**: En función de los productos comprados, se sugieren recetas fáciles y rápidas para mantener una alimentación saludable
 
-- **Canasta de compras inteligente**: Desarrollar una Canasta de Compras Inteligente que ofrezca listas personalizadas de productos según los objetivos nutricionales del usuario, correlacionadas con recetas y menús, y que genere facturas simuladas con precios, y que los productos de ésta se puedan desglosar y ver sus macros y justificación de su elección
-
+- **Canasta de compras inteligente**: Permitirá a los usuarios seleccionar entre canastas predefinidas para objetivos específicos (como bajo azúcar, alto en proteínas, etc.) o generar opciones dinámicas basadas en rangos personalizados de calorías o proteínas. Esta sección proporcionará una lista de productos recomendados con precios aproximados y un desglose completo de sus valores nutricionales (macros), al que se podrá acceder al hacer clic en el producto. Además, se incluirá la justificación de la elección de cada producto, asegurando su coherencia con los objetivos del usuario. El sistema generará facturas simuladas de mercado con las opciones seleccionadas, que incluirán un enlace directo a recetas y menús recomendados para cada objetivo nutricional. Las canastas dinámicas se ajustarán en función de las metas de proteínas o calorías del usuario, permitiéndole elegir entre diferentes rangos y adaptarse a sus necesidades dietéticas
+  
 - **Guía de suplementos y tips para principiantes en el gimnasio**: Información sobre los suplementos básicos, además de consejos para los que recién comienzan en el gimnasio
 
 - **Personalización dinámica**: Proporciona recomendaciones personalizadas basadas en los datos ingresados por el usuario, ajustándose a sus objetivos específicos de nutrición y ejercicio
