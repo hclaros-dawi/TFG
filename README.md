@@ -9,9 +9,10 @@ Una plataforma integral que combina ejercicio y nutrición, ayudando a los usuar
 **NeoCorpusFit** busca ayudar a los usuarios a alcanzar sus metas de salud y fitness a través de herramientas interactivas, incluyendo:
 
 - Cálculos de IMC, proteínas, creatina y calorías de mantenimiento según los objetivos del usuario
-- Sugerencias de dietas personalizadas según el perfil del usuario
-- Recetas saludables adaptadas a sus necesidades
+- Menús de alimentación personalizados, alineados con los productos de las canastas recomendadas y las recetas sugeridas, para asegurar coherencia con los objetivos nutricionales del usuario
+- Recetas fáciles y nutritivas, creadas con los productos recomendados en la canasta de compras, alineadas con sus objetivos nutricionales
 - Optimización de la canasta de compras para ajustarse a sus objetivos nutricionales
+- Rutinas de ejercicio personalizadas basadas en los objetivos del usuario (perder peso, ganar masa muscular, etc.)
 
 ### Funcionalidades Clave:
 
@@ -32,6 +33,6 @@ Una plataforma integral que combina ejercicio y nutrición, ayudando a los usuar
 ## Tecnologías Utilizadas
 
 - **Back-End**: PHP (Laravel)
-- **Front-End**: HTML5, CSS3, JavaScript
-- **Base de Datos**: MySQL
+- **Front-End**: HTML5, SCSS, JavaScript y Bootstrap 5 para el diseño responsivo
+- **Base de Datos**: MySQL (PhpMyAdmin)
 - **Control de Versiones**: GitHub
