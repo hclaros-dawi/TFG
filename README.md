@@ -24,7 +24,7 @@ Una plataforma integral que combina ejercicio y nutrición, ayudando a los usuar
 
 - **Recetas personalizadas**: En función de los productos comprados, se sugieren recetas fáciles y rápidas para mantener una alimentación saludable
 
-- **Canasta de compras inteligente**: Optimización de compras que sugiere productos que se ajusten a los objetivos nutricionales del usuario (por ejemplo, alto en proteínas, bajo en azúcar, etc.)
+- **Canasta de compras inteligente**: Desarrollar una Canasta de Compras Inteligente que ofrezca listas personalizadas de productos según los objetivos nutricionales del usuario, correlacionadas con recetas y menús, y que genere facturas simuladas con precios, y que los productos de ésta se puedan desglosar y ver sus macros y justificación de su elección
 
 - **Guía de suplementos y tips para principiantes en el gimnasio**: Información sobre los suplementos básicos, además de consejos para los que recién comienzan en el gimnasio
 
