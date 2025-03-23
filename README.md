@@ -30,7 +30,7 @@ Una plataforma integral que combina ejercicio y nutrición, ayudando a los usuar
 
 - **Personalización dinámica**: Proporciona recomendaciones personalizadas basadas en los datos ingresados por el usuario, ajustándose a sus objetivos específicos de nutrición y ejercicio
 
-## Tecnologías Utilizadas
+## Tecnologías utilizadas
 
 - **Back-End**: PHP (Laravel)
 - **Front-End**: HTML5, SCSS, JavaScript y Bootstrap 5 para el diseño responsivo
